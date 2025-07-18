@@ -2,7 +2,7 @@
 <h1>Hi there 👋, my name is Pau</h1>
 <hr/>
 
-<p>🎓 Software engineer (Grau en Multimèdia, aplicacions i videojocs<br/>🎉 Graduated in 2025!</p>
+<p>🎓 Software engineer (Grau en Multimèdia, aplicacions i videojocs)<br/>🎉 Graduated in 2025!</p>
 
 <hr/>
 
