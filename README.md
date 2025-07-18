@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h1>These are some of the software I have used</h1>
+<h1>Some of the technologies I have used</h1>
 <ul>
 <li>Unity engine</li>
 <li>Python</li>
